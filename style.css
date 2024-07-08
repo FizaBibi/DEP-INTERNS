@@ -1,0 +1,28 @@
+body{
+    background-color: #8af4ee;
+}
+nav {
+    padding-left: 100px;
+    text-decoration: none;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    size: 50px;
+}
+a {
+    color:rgb(242, 101, 242);
+    margin: 5%;
+    size: 20px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 2%;
+}
+p {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    size: 20px;
+}
